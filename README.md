@@ -1,0 +1,2 @@
+# ebolaTweets
+Data and SPSS commands for the forthcoming publication: Geospatial Distribution of Local Health Department 3 Tweets and Online Searches About Ebola During the 4 2014 Ebola Outbreak. The paper authors are Roger Wong and Jenine Harris. The journal of publication is Disaster Medicine and Public Health Preparedness (https://www.cambridge.org/core/journals/disaster-medicine-and-public-health-preparedness). 
